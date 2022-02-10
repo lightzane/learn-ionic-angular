@@ -4,6 +4,8 @@
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
   "scripts": {
+    "start:ionic": "ionic serve --port=4200 --no-open",
+    "build:ionic": "ionic build",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
